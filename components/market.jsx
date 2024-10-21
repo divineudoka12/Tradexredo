@@ -13,7 +13,7 @@ export default function market({ filteredData }) {
                 <h1 className="lg:text-5xl md:text-4xl text-2xl font-semibold">Market Update</h1>
                 <p className="font-bold md:text-lg text-sm hover:underline hover:text-bluecrayola">See All Coins</p>
             </div>
-            <div className="overflow-x-auto md:overflow-x-auto lg:overflow-x-auto overscroll-x-auto">
+            <div className="overflow-x-auto overscroll-x-auto">
 
                 <div className="flex flex-row text-lg  py-4 gap-12 text-white font-fontUbuntu items-center">
                     <div  className="bg-bluecrayola px-6 py-1 rounded-full">
